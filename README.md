@@ -1,14 +1,10 @@
-#Cutshort Assignment - Website Repo
+#Cutshort Assignment
 
-![Design preview](./src/assets/Design.png)
+## Welcome!
 
-## Welcome! 👋
-
-Thanks for checking out this Onboarding Process.
+This is cutshort assignment repo
 
 ## Install
-
-**Install Project**
 
 Install Packages using npm:
 
@@ -27,20 +23,3 @@ For Build the Project:
 ```
 npm run build
 ```
-
-## Technology Stack
-
-**Libraries:**
-
-- [SASS (SCSS)]
-- [Bootstrap]
-- [Formik]
-- [Yup]
-
-**Website Page**
-
-- [x] Sign Up Process Steps
-  - [x] User Info
-  - [x] Workspace Info
-  - [x] Choose Space for Personal or Team
-  - [x] Congrates
